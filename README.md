@@ -3,7 +3,7 @@
 
 ---
 
-#### With 4 years of SFDC Salesforce.com experience, I'm a skilled developer in Visual Force, Apex, JavaScript, and Java. I have extensive knowledge in SOAP, REST, MULESOFT, and Force.com. API for web service integration. I possess strong analytical, fast learning, and problem-solving skills. 
+- With 4 years of SFDC Salesforce.com experience, I'm a skilled developer in Visual Force, Apex, JavaScript, and Java. I have extensive knowledge in SOAP, REST, MULESOFT, and Force.com. API for web service integration. I possess strong analytical, fast learning, and problem-solving skills. 
 
 --- 
 ## **Force Platform Technologies**
@@ -41,3 +41,34 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f37d3f26951480c683e34a1c3b802b51d55f6ff04589a82ddd38cb76ba3f94e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d73616c6573666f7263652d2d64782d626c7565"><img src="https://camo.githubusercontent.com/1f37d3f26951480c683e34a1c3b802b51d55f6ff04589a82ddd38cb76ba3f94e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d73616c6573666f7263652d2d64782d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/-salesforce--dx-blue" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9cc0a59901c473c67afeeb0b8b487ba7e0e6a792d29627c909f1b9430d97676/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d636f7061646f2d626c7565"><img src="https://camo.githubusercontent.com/c9cc0a59901c473c67afeeb0b8b487ba7e0e6a792d29627c909f1b9430d97676/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d636f7061646f2d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/-copado-blue" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c6d05c059aa45085cdd387cc38c032f907165d0ea66a9a95d7a822b4efe7ffb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696768746e696e672d2d64657369676e2d2d73797374656d2d626c7565"><img src="https://camo.githubusercontent.com/c6d05c059aa45085cdd387cc38c032f907165d0ea66a9a95d7a822b4efe7ffb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696768746e696e672d2d64657369676e2d2d73797374656d2d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/-lightning--design--system-blue" style="max-width: 100%;"></a></p>
+
+```html
+<html>
+  <head>
+    <title>My Profile</title>
+    <style>
+      .pulse {
+        display: inline-block;
+        animation: pulse 1s ease-in-out infinite;
+      }
+
+      @keyframes pulse {
+        0% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.2);
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to my profile!</h1>
+    <p>Here's some animated text:</p>
+    <h2 class="pulse">Hello World!</h2>
+  </body>
+</html>
+```
