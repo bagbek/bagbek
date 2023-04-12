@@ -42,33 +42,16 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9cc0a59901c473c67afeeb0b8b487ba7e0e6a792d29627c909f1b9430d97676/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d636f7061646f2d626c7565"><img src="https://camo.githubusercontent.com/c9cc0a59901c473c67afeeb0b8b487ba7e0e6a792d29627c909f1b9430d97676/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d636f7061646f2d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/-copado-blue" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c6d05c059aa45085cdd387cc38c032f907165d0ea66a9a95d7a822b4efe7ffb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696768746e696e672d2d64657369676e2d2d73797374656d2d626c7565"><img src="https://camo.githubusercontent.com/c6d05c059aa45085cdd387cc38c032f907165d0ea66a9a95d7a822b4efe7ffb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696768746e696e672d2d64657369676e2d2d73797374656d2d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/-lightning--design--system-blue" style="max-width: 100%;"></a></p>
 
+---
 
-<html>
-  <head>
-    <title>My Profile</title>
-    <style>
-      .pulse {
-        display: inline-block;
-        animation: pulse 1s ease-in-out infinite;
-      }
-
-      @keyframes pulse {
-        0% {
-          transform: scale(1);
-        }
-        50% {
-          transform: scale(1.2);
-        }
-        100% {
-          transform: scale(1);
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <h1>Welcome to my profile!</h1>
-    <p>Here's some animated text:</p>
-    <h2 class="pulse">Hello World!</h2>
-  </body>
-</html>
-
+## **Certifications**
+<div align="center" dir="auto">
+  <h2 dir="auto"><a id="user-content-certifications" class="anchor" aria-hidden="true" href="#certifications"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Certifications</h2>
+  <a href="https://trailblazer.me/id/amanmadov" rel="nofollow"><img src="/amanmadov/amanmadov/raw/main/assets/icons/icon1.png" height="70" alt="Salesforce Javascript Certification" style="max-width: 100%;"></a>
+  <a href="https://trailblazer.me/id/amanmadov" rel="nofollow"><img src="/amanmadov/amanmadov/raw/main/assets/icons/icon2.png" height="70" alt="Salesforce Platform Developer I Certification" style="max-width: 100%;"></a>
+  <a href="https://trailblazer.me/id/amanmadov" rel="nofollow"><img src="/amanmadov/amanmadov/raw/main/assets/icons/icon3.png" height="70" alt="Salesforce Platform App Builder Certification" style="max-width: 100%;"></a>
+  <a href="https://trailblazer.me/id/amanmadov" rel="nofollow"><img src="/amanmadov/amanmadov/raw/main/assets/icons/icon4.png" height="70" alt="Salesforce Administrator Certification" style="max-width: 100%;"></a>
+  <a href="https://certificates.automationanywhere.com/60cc3632-60c6-4398-9584-6260430319bb" rel="nofollow"><img src="/amanmadov/amanmadov/raw/main/assets/icons/icon6.png" height="70" alt="Automation Anywhere RPA Certification" style="max-width: 100%;"></a>
+  <a href="https://certificate.uipath.com/validation/diploma/code=929432899817526525" rel="nofollow"><img src="/amanmadov/amanmadov/raw/main/assets/icons/icon7.png" height="70" alt="UiPath Advanced RPA Certification" style="max-width: 100%;"></a>
+  <a href="https://www.credly.com/badges/66386424-79b6-4d8c-84a8-4ae49dbc6e9a" rel="nofollow"><img src="/amanmadov/amanmadov/raw/main/assets/icons/icon9.png" height="70" alt="Google Data Analytics Certification" style="max-width: 100%;"></a>
+</div>
